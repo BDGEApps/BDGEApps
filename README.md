@@ -1,16 +1,21 @@
-## Hi there 👋
+# Brayan Gaytan
 
-<!--
-**BDGEApps/BDGEApps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C# Developer | .NET | SQL Server
 
-Here are some ideas to get you started:
+Desarrollador enfocado en aplicaciones de escritorio, web y móviles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+C#
+.NET
+WPF
+WinForms
+ASP.NET
+SQL Server
+MySQL
+.NET MAUI
+
+## Contacto
+
+LinkedIn: https://www.linkedin.com/in/brayan-daniel-gaytan-esquivel-a6ab90226/
+Email: adokyndev@gmail.com
